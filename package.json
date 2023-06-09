@@ -1,0 +1,23 @@
+{
+  "name": "trivia-vue",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite-ssg build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.47",
+    "vue-router": "^4.2.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "less": "^4.1.3",
+    "sass": "^1.63.2",
+    "vite": "^4.3.9",
+    "vite-plugin-pages": "^0.31.0",
+    "vite-ssg": "^0.22.2"
+  }
+}

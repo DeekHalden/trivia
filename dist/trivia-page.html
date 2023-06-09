@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vite + Vue</title>
+    <script
+      type="module"
+      async=""
+      crossorigin=""
+      src="/assets/app-ae8b4613.js"
+    ></script>
+    <link rel="stylesheet" href="/assets/index-d939f5fd.css" />
+    <link
+      rel="modulepreload"
+      crossorigin=""
+      href="/assets/trivia-page-341b3cac.js"
+    />
+  </head>
+  <body>
+    <div id="app" data-server-rendered="true">
+      <header>
+        <a href="/about" class="">QUIZZY</a><a href=""><i></i></a>
+      </header>
+      <main>
+        <header>
+          <div><img src="/images/Image-1.png" alt="Image-1" /></div>
+          <meter></meter>
+        </header>
+        <section class="qs">
+          <mark
+            data-text="question "
+            data-text-2=" of "
+            data-index="3"
+            data-amount="10"
+          ></mark>
+          <h4>What is the capital of the United States?</h4>
+          <div class="qs-row">
+            <a
+              href="<%= VITE_ENV === 'prod' ? '/trivia/trivia-page-2' : '/trivia-page-2.html' %>"
+              ><label for="a"
+                ><input id="a" type="radio" name="a" data-c="true" />
+                <div data-v="a" class="card"><p>Washington</p></div></label
+              ></a
+            ><a
+              href="<%= VITE_ENV === 'prod' ? '/trivia/trivia-page-2' : '/trivia-page-2.html' %>"
+              ><label for="b"
+                ><input id="b" type="radio" name="a" data-c="false" />
+                <div data-v="b" class="card">
+                  <p>Long answer to show a lot of text</p>
+                </div></label
+              ></a
+            ><a
+              href="<%= VITE_ENV === 'prod' ? '/trivia/trivia-page-2' : '/trivia-page-2.html' %>"
+              ><label for="c"
+                ><input id="c" type="radio" name="a" data-c="false" />
+                <div data-v="c" class="card"><p>New York City</p></div></label
+              ></a
+            ><a
+              href="<%= VITE_ENV === 'prod' ? '/trivia/trivia-page-2' : '/trivia-page-2.html' %>"
+              ><label for="d"
+                ><input id="d" type="radio" name="a" data-c="false" />
+                <div data-v="d" class="card"><p>Ottawa</p></div></label
+              ></a
+            >
+          </div>
+          <div>
+            <div id="banner"></div>
+            <span></span><span></span>
+          </div>
+          <div class="answer"></div>
+        </section>
+        <section class="cta">
+          <a
+            href="<%= VITE_ENV === 'prod' ? '/trivia/trivia-page-2' : '/trivia-page-2.html' %>"
+            class="btn submit"
+            >next ❯</a
+          >
+        </section>
+      </main>
+    </div>
+  </body>
+</html>

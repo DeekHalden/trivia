@@ -1,0 +1,69 @@
+{
+  "\u0000plugin-vue:export-helper": [
+  ],
+  "../../../../../@vite-plugin-pages/generated-pages?id=~pages": [
+  ],
+  "../../../../../images/Image-1.png": [
+    "/assets/trivia-page-341b3cac.js"
+  ],
+  "../../../../../images/Image.png": [
+    "/assets/main-3d9b4726.js"
+  ],
+  "index.html": [
+  ],
+  "node_modules/@unhead/dom/dist/index.mjs": [
+  ],
+  "node_modules/@unhead/shared/dist/index.mjs": [
+  ],
+  "node_modules/@unhead/vue/dist/shared/vue.505b826e.mjs": [
+  ],
+  "node_modules/@vue/devtools-api/lib/esm/const.js": [
+  ],
+  "node_modules/@vue/devtools-api/lib/esm/env.js": [
+  ],
+  "node_modules/@vue/devtools-api/lib/esm/index.js": [
+  ],
+  "node_modules/@vue/devtools-api/lib/esm/proxy.js": [
+  ],
+  "node_modules/@vue/devtools-api/lib/esm/time.js": [
+  ],
+  "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
+  ],
+  "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
+  ],
+  "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
+  ],
+  "node_modules/@vue/shared/dist/shared.esm-bundler.js": [
+  ],
+  "node_modules/@vueuse/head/dist/index.mjs": [
+  ],
+  "node_modules/hookable/dist/index.mjs": [
+  ],
+  "node_modules/unhead/dist/index.mjs": [
+  ],
+  "node_modules/vite-ssg/dist/index.mjs": [
+  ],
+  "node_modules/vite-ssg/dist/shared/vite-ssg.5912142e.mjs": [
+  ],
+  "node_modules/vite-ssg/dist/shared/vite-ssg.a009fbf1.mjs": [
+  ],
+  "node_modules/vue-router/dist/vue-router.mjs": [
+  ],
+  "node_modules/vue/dist/vue.runtime.esm-bundler.js": [
+  ],
+  "src/App.vue": [
+  ],
+  "src/App.vue?vue&type=style&index=0&lang.less": [
+  ],
+  "src/main.js": [
+  ],
+  "src/pages/about.vue": [
+    "/assets/about-1ce73ace.js"
+  ],
+  "src/pages/main.vue": [
+    "/assets/main-3d9b4726.js"
+  ],
+  "src/pages/trivia-page.vue": [
+    "/assets/trivia-page-341b3cac.js"
+  ]
+}
