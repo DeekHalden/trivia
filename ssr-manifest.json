@@ -4,10 +4,10 @@
   "../../../../../@vite-plugin-pages/generated-pages?id=~pages": [
   ],
   "../../../../../images/Image-1.png": [
-    "/assets/trivia-page-341b3cac.js"
+    "/trivia/assets/trivia-page-341b3cac.js"
   ],
   "../../../../../images/Image.png": [
-    "/assets/main-3d9b4726.js"
+    "/trivia/assets/main-3d9b4726.js"
   ],
   "index.html": [
   ],
@@ -58,12 +58,12 @@
   "src/main.js": [
   ],
   "src/pages/about.vue": [
-    "/assets/about-1ce73ace.js"
+    "/trivia/assets/about-1ce73ace.js"
   ],
   "src/pages/main.vue": [
-    "/assets/main-3d9b4726.js"
+    "/trivia/assets/main-3d9b4726.js"
   ],
   "src/pages/trivia-page.vue": [
-    "/assets/trivia-page-341b3cac.js"
+    "/trivia/assets/trivia-page-341b3cac.js"
   ]
 }
