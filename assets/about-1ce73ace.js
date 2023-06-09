@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o}from"./app-ae8b4613.js";const r={};function c(s,a){return t(),o("p",null,"about")}const _=e(r,[["render",c],["__file","/Users/deek/Desktop/plure/trivia-vue/src/pages/about.vue"]]);export{_ as default};
